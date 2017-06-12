@@ -1,0 +1,66 @@
+header {
+
+  background-color: #70146a;
+  text-align: center;
+  border: 1px solid black;
+  margin-top: -0.1%;
+  width: 100%;
+}
+a {
+  font : black;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+div {
+  /*background-color: #c90b0b;*/
+  border : 1px solid black;
+  text-align: center;
+  margin-top: 4px;
+}
+
+a {
+  text-align: center;
+}
+#colonne {
+  background-color: #97ecdb ;
+  position:relative;
+    width:25%;
+}
+#acteur {
+  float: right;
+  width: 74%;
+}
+#filme {
+  float : right;
+ background-color: #879528;
+ width : 74%;
+}
+#societe {
+  float:right;
+  width: 74%;
+}
+#map {
+
+  height: 450px;
+}
+ #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+	.carousel-page
+	{
+	width:100%;
+	height:400px;
+	background-color:#5f666d;
+	color:white;
+	}
